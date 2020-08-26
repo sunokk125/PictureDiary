@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeamProject</string>
+    <string name="title">제목 : </string>
+    <string name="date">날짜 : </string>
+    <string name="weather">날씨 : </string>
+    <string name="content">내용 : </string>
+    <string name="division">분류 : </string>
+</resources>
